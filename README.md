@@ -7,7 +7,7 @@
 
 ## 🟣 Sobre
 
-Fundador da **HikaryX Software** — uma empresa focada em desenvolvimento de soluções web customizadas. Atuo como freelancer sob o alias profissional **HikaryX Software**, entregando projetos com qualidade e estrutura sólida.
+Fundador da **HikaryX Software** — uma empresa focada em desenvolvimento de soluções customizadas.
 
 **Formação:**
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (UPF)
