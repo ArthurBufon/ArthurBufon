@@ -7,7 +7,7 @@
 
 ## 🟣 Sobre
 
-Fundador da **HikaryX Software** — uma empresa focada em desenvolvimento de soluções customizadas.
+Fundador da HikaryX Software — built with intention.
 
 **Formação:**
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (UPF)
