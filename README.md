@@ -36,7 +36,7 @@ Fundador da **HikaryX Software** — uma empresa focada em desenvolvimento de so
 
 ## 🚀 Projetos
 
-- **[Design Patterns](https://github.com/ArthurBufon/design-patterns)** — Padrões de projeto, estruturas recomendadas e boas práticas para desenvolvimento
+- **[Meu Grimório](https://github.com/ArthurBufon/dev-grimoire)** — Preferências, padrões e convenções de projeto. Não é um guia de boas práticas genérico. É meu jeito de trabalhar.
 
 ---
 
