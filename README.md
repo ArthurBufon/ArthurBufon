@@ -1,7 +1,7 @@
 # Arthur Bufon
 
-**Full Stack Web Developer** · Freelancer · Founder  
-*Transformando desafios em soluções tecnológicas robustas e customizadas*
+**Full Stack Developer** · Freelancer · Founder  
+*system up. ego down.*
 
 ---
 
