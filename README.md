@@ -1,7 +1,6 @@
 # Arthur Bufon
 
 **Full Stack Developer** · Freelancer · Founder  
-*"System up. Ego down."*
 
 ---
 
