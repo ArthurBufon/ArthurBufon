@@ -38,9 +38,12 @@ Fundador da HikaryX Software — built with intention.
 
 ## ✨ Projetos
 
+Grande parte da minha colaboração em código acontece em projetos empresariais fechados. De qualquer maneira, abaixo tenho algumas referências públicas:
+
 * **[Meu Grimório](https://github.com/ArthurBufon/dev-grimoire)** — Preferências, padrões e convenções. Não é um guia de boas práticas genérico. É meu jeito de trabalhar.
 
 * **[4U Certificações](https://app.4ucertifica.com.br)** — App de simulados para certificações ANBIMA 2026, atualizado com CPA, C-PRO R e C-PRO I.
+
 
 
 ---
