@@ -27,7 +27,7 @@ Fundador da HikaryX Software — built with intention.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
 ![IBExpert](https://img.shields.io/badge/IBExpert-004B8D?style=for-the-badge\&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-E94B35?style=for-the-badge&logoColor=white)
+![Firebird](https://img.shields.io/badge/🔥%20Firebird-E94B35?style=for-the-badge)
 
 ### Secundária
 
