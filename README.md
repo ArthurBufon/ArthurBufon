@@ -40,6 +40,8 @@ Grande parte da minha colaboração em código acontece em projetos empresariais
 
 * **[4U Certificações](https://app.4ucertifica.com.br)** — App de simulados para certificações ANBIMA 2026, atualizado com CPA, C-PRO R e C-PRO I. Desenvolvido pela **HikaryX Software**.
 
+* **[Esquadrão da Alegria](https://github.com/Esquadrao-da-Alegria/esquadrao)** — Projeto voluntário para a ONG Esquadrão da Alegria. Atuação no núcleo do app, com foco em visitas, relatórios e arquitetura usando Laravel e React.
+
 ## 🔗 Links
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/arthurbufon)
