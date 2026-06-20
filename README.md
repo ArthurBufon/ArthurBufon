@@ -24,15 +24,9 @@ Fundador da HikaryX Software — built with intention.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge\&logo=jquery\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Ferramentas
-
-![IBExpert](https://img.shields.io/badge/IBExpert-004B8D?style=for-the-badge\&logoColor=white)
-
-### Bancos de dados
-
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+![IBExpert](https://img.shields.io/badge/IBExpert-004B8D?style=for-the-badge\&logoColor=white)
 ![Firebird](https://img.shields.io/badge/Firebird-E94B35?style=for-the-badge\&logo=firebird\&logoColor=white)
 
 ### Secundária
