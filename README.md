@@ -5,6 +5,7 @@
 ## .✦ ݁˖ Sobre
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — UPF
+
 🎓 Business Intelligence, Big Data e Analytics — UPF
 
 ## 💻 Tech Stack
