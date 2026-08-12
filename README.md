@@ -1,10 +1,8 @@
 # Arthur Bufon
 
-**Full Stack Developer** · Freelancer · Founder
+**Full Stack Developer** · Freelancer · Founder Akame Software
 
-Fundador da **HikaryX Software** — built with intention.
-
-## 🟣 Sobre
+## .✦ ݁˖ Sobre
 
 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — UPF
 🎓 Business Intelligence, Big Data e Analytics — UPF
