@@ -36,7 +36,7 @@ Grande parte da minha colaboração em código acontece em projetos empresariais
 
 * **[Meu Grimório](https://github.com/ArthurBufon/dev-grimoire)** — Preferências, padrões e convenções. Não é um guia de boas práticas genérico. É meu jeito de trabalhar.
 
-* **[4U Certificações](https://app.4ucertifica.com.br)** — App de simulados para certificações ANBIMA 2026, atualizado com CPA, C-PRO R e C-PRO I. Desenvolvido pela **HikaryX Software**.
+* **[4U Certificações](https://app.4ucertifica.com.br)** — App de simulados para certificações ANBIMA 2026, atualizado com CPA, C-PRO R e C-PRO I. Desenvolvido pela **Akame Software**.
 
 * **[Esquadrão da Alegria](https://github.com/Esquadrao-da-Alegria/esquadrao)** — Voluntariado no desenvolvimento do app da ONG Esquadrão da Alegria. Atuação no núcleo principal, com foco em visitas, relatórios e arquitetura usando Laravel e React.
 
