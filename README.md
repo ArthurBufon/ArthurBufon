@@ -39,6 +39,8 @@ Grande parte da minha colaboração em código acontece em projetos empresariais
 
 * **[4U Certificações](https://app.4ucertifica.com.br)** — App de simulados para certificações ANBIMA 2026, atualizado com CPA, C-PRO R e C-PRO I. Desenvolvido pela **Akame Software**.
 
+* **[StudioZen](https://studiozen.akame.com.br)** — App de agendamentos e controle financeiro, desenvolvido para salões de beleza, barbearias... Desenvolvido pela **Akame Software**.
+
 * **[Esquadrão da Alegria](https://github.com/Esquadrao-da-Alegria/esquadrao)** — Voluntariado no desenvolvimento do app da ONG Esquadrão da Alegria. Atuação no núcleo principal, com foco em visitas, relatórios e arquitetura usando Laravel e React.
 
 ## 🔗 Links
