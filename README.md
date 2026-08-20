@@ -2,11 +2,10 @@
 
 Full Stack Developer ✦ Freelancer ✦ Founder @ Akame Software
 
-## .✦ ݁˖ Sobre
+🎓 Formação
 
-🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — UPF
-
-🎓 Business Intelligence, Big Data e Analytics — UPF
+⟡ Tecnólogo em Análise e Desenvolvimento de Sistemas — UPF
+⟡ Pós-graduação em Business Intelligence, Big Data e Analytics — UPF
 
 ## 💻 Tech Stack
 
