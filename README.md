@@ -1,8 +1,10 @@
 # Arthur Bufon
 
+## 👨‍💻 Sobre
+
 Full Stack Developer ✦ Freelancer ✦ Founder @ Akame Software
 
-🎓 Formação
+## 🎓 Formação
 
 ⟡ Tecnólogo em Análise e Desenvolvimento de Sistemas — UPF
 
