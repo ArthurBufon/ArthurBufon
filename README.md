@@ -1,6 +1,6 @@
 # Arthur Bufon
 
-**Full Stack Developer** · Freelancer · Founder Akame Software
+Full Stack Developer ✦ Freelancer ✦ Founder @ Akame Software
 
 ## .✦ ݁˖ Sobre
 
