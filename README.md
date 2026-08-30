@@ -39,6 +39,8 @@ Grande parte da minha colaboração em código acontece em projetos empresariais
 
 * **[Meu Grimório](https://github.com/ArthurBufon/dev-grimoire)** — Preferências, padrões e convenções. Não é um guia de boas práticas genérico. É meu jeito de trabalhar.
 
+* **[Akame Software](https://www.akame.com.br/)** — Home page de Akame Software.
+
 * **[4U Certificações](https://app.4ucertifica.com.br/home)** — App de simulados para certificações ANBIMA 2026, atualizado com CPA, C-PRO R e C-PRO I. Desenvolvido pela **Akame Software**.
 
 * **[StudioZen](https://studiozen.akame.com.br/home)** — App de agendamentos e controle financeiro, desenvolvido para salões de beleza, barbearias... Desenvolvido pela **Akame Software**.
