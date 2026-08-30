@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Sobre
 
-Full Stack Developer ✦ Freelancer ✦ Founder @ Akame Software
+Full Stack Developer ✦ Freelancer ✦ [Founder @ Akame Software](www.akame.com.br)
 
 ## 🎓 Formação
 
