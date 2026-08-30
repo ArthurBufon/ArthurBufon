@@ -43,7 +43,7 @@ Grande parte da minha colaboração em código acontece em projetos empresariais
 
 * **[StudioZen](https://studiozen.akame.com.br/home)** — App de agendamentos e controle financeiro, desenvolvido para salões de beleza, barbearias... Desenvolvido pela **Akame Software**.
 
-* **[Esquadrão da Alegria](https://github.com/Esquadrao-da-Alegria/esquadrao)** — Voluntariado no desenvolvimento do app da ONG Esquadrão da Alegria. Atuação no núcleo principal, com foco em visitas, relatórios e arquitetura usando Laravel e React.
+* **[Esquadrão da Alegria](https://esquadraodaalegria.org.br)** — Voluntariado no desenvolvimento do app da ONG Esquadrão da Alegria. Atuação no núcleo principal, com foco em visitas, relatórios e arquitetura usando Laravel e React.
 
 ## 🔗 Links
 
