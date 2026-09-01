@@ -37,7 +37,7 @@ Full Stack Developer ✦ Freelancer ✦ Founder @ [Akame Software](https://www.a
 
 Grande parte da minha colaboração em código acontece em projetos empresariais fechados. De qualquer maneira, abaixo tenho algumas referências públicas:
 
-* **[Meu Grimório](https://github.com/ArthurBufon/dev-grimoire)** — Preferências, padrões e convenções. Não é um guia de boas práticas genérico. É meu jeito de trabalhar.
+* **[Meu Grimório](https://github.com/ArthurBufon/dev-grimoire)** — Preferências, padrões e workflow com agentes de IA. Não é um guia de boas práticas genérico. É meu jeito de trabalhar.
 
 * **[Akame Software](https://www.akame.com.br/)** — Home page de Akame Software.
 
